@@ -96,3 +96,5 @@ $ python mandelbrot.python
 ```
 
 動いた。
+
+![image](https://kazurayam.github.io/mandelbrot-set-python/images/mandelbrot-set.png)
