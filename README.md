@@ -46,7 +46,7 @@ $ pipenv install numba
 
 これで外部ライブラリのインストールはできた。
 
-コードをコピペした。ただし `autojit` はもう使えないよとエラーがでた。 `jit` に書き換えた。
+コードをコピペした。ただし `autojit` はもう使えないよとエラーがでた。そこで `jit` に書き換えた。
 
 ```
 import numpy
@@ -94,7 +94,5 @@ $  . /Users/kazuakiurayama/.local/share/virtualenvs/mandelbrot-set-python-FfkQuj
 ```
 $ python mandelbrot.python
 ```
-https://qiita.com/RE-yura/items/38d8673d73fe5a7ada65
 
-
-https://stackoverflow.com/questions/73646130/how-to-install-numba-on-mac-m1
+動いた。
